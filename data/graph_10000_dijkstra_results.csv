@@ -1,0 +1,2 @@
+query,source,target,algorithm,found,cost,vertices_explored,edges_examined,time_ms,path_vertices
+0,5,9000,Dijkstra,1,353262,9618,23480,1.8796,107

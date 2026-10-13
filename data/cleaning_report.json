@@ -1,0 +1,10 @@
+{
+  "raw_arcs": 6885658,
+  "removed_self_loops_or_nonpositive": 0,
+  "merged_parallel_arcs": 90850,
+  "clean_arcs": 6794808,
+  "components": 1,
+  "largest_component_vertices": 2758119,
+  "seed_vertex_orig_id": 246165,
+  "rng_seed": 42
+}

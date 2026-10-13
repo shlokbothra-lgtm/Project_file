@@ -1,0 +1,2 @@
+query,source,target,algorithm,found,cost,vertices_explored,edges_examined,time_ms,path_vertices
+0,5,9000,A*,1,353262,1347,3303,1.6465,107

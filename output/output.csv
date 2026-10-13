@@ -1,0 +1,2 @@
+graph,vertices,arcs,edges,avg_degree,max_degree,min_degree,isolated,w_min,w_max
+..\data\graph_1000_edges.csv,1000,2378,1189,2.3780,5,1,0,7,29456

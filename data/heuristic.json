@@ -1,0 +1,10 @@
+{
+  "formula": "h(v) = scale * haversine_meters(v, target)",
+  "scale_admissible": 7.180175906087838,
+  "ratio_min": 7.180175906087838,
+  "ratio_p01": 9.977148606716284,
+  "ratio_median": 9.993699606849884,
+  "ratio_max": 12.384755306587342,
+  "arcs_with_zero_haversine": 0,
+  "note": "Use scale_admissible (or smaller) in C++ to guarantee admissibility/consistency. ratio_median ~1 means weights are metres."
+}
